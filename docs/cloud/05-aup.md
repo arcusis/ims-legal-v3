@@ -172,3 +172,122 @@ AUP זו אינה (א) מחייבת את איי.אמ.אס טכנולוגיות �
 - ראיות להפרה הנטענת.
 
 דואר אלקטרוני עם כותרות מלאות מספק את כל המידע הנ"ל, כמו גם קובצי יומן מערכת. מצבים אחרים ידרשו שיטות שונות לספק את המידע הנ"ל.
+
+
+1. Introduction
+This Acceptable Use Policy (as amended, modified or supplemented from time to time as set forth on IMS - Network’s website, this “AUP”) of IMS - Network and its affiliates . (“IMS - Network”), is designed to protect IMS - Network’s customers, users of IMS - Network’s website, IMS - Network’s Products and Services and to ensure further compliance with all relevant laws and regulations.
+
+IF YOU DO NOT AGREE TO THIS AUP, PLEASE DO NOT ENTER TO, CONNECT TO, ACCESS OR USE THE SITE AND/OR ANY OF THE PRODUCTS AND SERVICES.
+
+This AUP applies to each Customer that subscribes for the Products and Services.
+
+This AUP should be read in conjunction with the Terms, SLA and Privacy Policy.
+
+Capitalized terms used herein without being defined herein shall have the meaning ascribed to such capitalized term in the Terms, the SLA or the Privacy Policy, as applicable.
+
+CUSTOMER HEREBY REPRESENTS AND WARRANTS THAT HE/SHE/IT HAS READ, UNDERSTOOD AND ACCEPTED THE PROVISIONS OF THE TERMS, THE SLA, THE PRIVACY POLICY AND THIS AUP.
+
+By using the Products and Services, Customers are, and shall remain, responsible for complying with the provisions of this AUP and for any violation that are or may be attributed to their customers and users, whether authorized or not by the Customer or by IMS - Network. Customers must take all reasonable steps to ensure that their customers and users will comply with this AUP.
+
+This AUP does not (a) obligate IMS - Network to monitor, review, or police the data and/or content and/or information residing on the IMS - Network’s servers and/or are managed by the Customer under his/her/its Account; or (b) create any obligation or duty of IMS - Network to any party that is not a Customer. It is an obligation of the Customer to notify IMS - Network of any violations of law or breach of this AUP.
+
+IMS - Network EXPRESSLY DISCLAIMS ANY LIABILITY FOR THE DATA AND CONTENT TRANSMITTED THROUGH OR INTERMEDIATELY BY IMS - Network, TEMPORARILY OR PERMANENTLY STORED ON ANY SERVER OF IMS - Network OR THE BY USING THE ACCOUNT AND FOR THE ACTIONS OR OMISSION OF CUSTOMERS AND/OR ANY OF THEIR CUSTOMERS AND USERS.
+
+In addition to any other actions it may take under this AUP, IMS - Network reserves the right to cooperate fully with any criminal investigation of data, information or content located on IMS - Network’s servers and/or as been used for criminal purposes by using the Products and Services.
+
+2. Customers’ Security and Confidentiality Obligations
+Customer is responsible for: (a) use reasonable care to ensure the security of their Account; (b) maintaining the confidentiality of her/his/its password account; (c) ensuring that all activities that occur in connection with the Account comply with the Terms, this AUP and Applicable Laws. Customer acknowledges and agrees that IMS - Network is not responsible for the internal management or administration of her/his/its Account and any of the data, content and information stored thereby.
+
+A Customer is solely responsible for any intrusions into, or security breaches of, any of its Accounts, except as otherwise covered by a specifically designated security administration or firewall security service package ordered by the Customer from IMS - Network.
+
+3. Prohibited Activities
+A. Customers shall not allow the posting, transmission, or storage of data or content on or through the Account and/or the Products and Services which, in IMS - Network’s sole determination, constitutes a violation of any federal, state, local or international law, regulation, ordinance, court order or other legal process (“Applicable Laws”). Customers shall be responsible for determining which Applicable Laws are applicable to their use of the Products and Services. Prohibited content includes, without limitation: (a) data, information, content or code that facilitates any violation of, or describes ways to violate this AUP or Applicable Laws; or (b) “harvested” addresses or information; or (c) “phishing” websites; or (d) “spamvertising” sites.
+
+B. Customers may not transmit, distribute, download, copy, cache, host, or otherwise store on their Account any information; data, material, or work that infringes the intellectual property rights of others or violates any trade secret right of any other person. IMS - Network has the exclusive and absolute right to disable access to, or remove, infringing content to the extent required under any law or regulation, including, without limitation, the Digital Millennium Copyright Act of 1998.
+
+C. Customers may not use their Account and/or the Products and Services to (i) send unsolicited bulk messages over the Internet (i.e., “spamming”), (ii) create fake weblog or weblogs which are intended or reasonably likely to promote the author’s affiliated websites or to increase the search engine rankings of associated sites (i.e., “splogs”), or (iii) send spam to weblog sites or automatically post random comments or promotions for commercial services to weblogs (i.e., “spamming blogs”). Users must comply with all relevant legislation and regulations on bulk and commercial e-mail, including the CAN-SPAM Act of 2003. Mass Mailings – Customers may not send mass unsolicited e-mail, which is email that is sent to recipients who have not Confirmed Opt-In or Closed-Loop Opt-In in to mailings from the Customer. Customers who send mass mailings must maintain complete and accurate records of all consents and opt-ins and provide such records to IMS - Network upon its request. If a Customer cannot provide positive and verifiable proof of such consents and opt-ins, IMS - Network will consider the mass mailing to be unsolicited.
+
+Mailing Lists – Customer are prohibited from operating mailing lists, listservs, or mailing services that do not target an audience that has voluntarily signed up and agreed for e-mail information using a Confirmed Opt-In or Closed-Loop Opt-In process or that has made their e-mail addresses available to a Customer for distribution of information. Customers who operate mailing lists must maintain complete and accurate records of all consents and Confirmed Opt-In or Closed-Loop Opt-In elections and provide such records to IMS - Network upon its request. If a Customer cannot provide positive and verifiable proof of such consents and Confirmed Opt-In or Closed-Loop Opt-In elections, IMS - Network will consider the list mailing to be unsolicited. Any Customer maintained mailing list must also allow any party on the list to remove itself automatically and permanently.
+
+D. Without derogating from anything detailed hereto in this AUP, Customer hereby undertakes that he/she/it will not act in any of the following manners:
+
+Forging, misrepresenting, omitting or deleting message headers, return mailing information, or internet protocol addresses, to conceal or misidentify the origin of a message.
+Creating or sending Internet viruses, worms or Trojan horses, flood or mail bombs, or engaging in denial of service attacks.
+Hacking, and/or subverting, or assisting others in subverting, the security or integrity of IMS - Network’s products or systems.
+Soliciting the performance of any illegal activity, even if the activity itself is not performed.
+Threatening bodily harm, or encouraging bodily harm or property destruction.
+Harassing another, or encouraging harassing behavior.
+Engaging in outright fraud, or using services to engage in scams like pyramid schemes.
+Collecting personal information about others without their knowledge or consent.
+Instructing others in prohibited activities.
+Using services to disseminate or display images classified under U.S. law as child pornography, child erotica (regardless of literary or artistic merit) and/or bestiality; and/or
+Acting in any manner that might subject IMS - Network to unfavorable regulatory action, subject us to any liability for any reason, or adversely affect IMS - Network’s public image, reputation or goodwill, as determined by us in our sole and exclusive discretion.
+Creating fake weblog or weblogs which are intended or reasonably likely to promote the author’s affiliated websites or to increase the search engine rankings of associated sites.
+Sending spam to weblog sites or automatically posting random comments or promotions for commercial services to weblogs.
+Conduct an intellectual property and/or copyright infringement of either IMS - Network’s or any other third party, including, without limitation, transmit, or otherwise make available any content that infringes any patent, trademark, trade secret, copyright, or other proprietary rights of any party.
+Causing or initiating security breaches or disruptions of network communication and/or connectivity, including port scans, flood pings, email-bombing, packet spoofing, IP spoofing, and forged routing information.
+Executing any form of network activity that will intercept data not intended for the Customer’s server.
+Evading or circumventing user authentication or security of any host, network or account, including cracking, brute-force, or dictionary attacks.
+Interfering with or denying service to any user, host, or network other than the Customer’s host, such as a denial of service attack or distributed denial of service attack.
+Conduct designed to avoid restrictions or access limits to specific services, hosts, or networks, including the forging of packet headers or other identification information.
+Soliciting the performance of any illegal activity, even if the activity is not performed.
+Using any program, or sending messages of any kind, designed to interfere with or disable a user’s terminal session.
+Use of IMS - Network Network for the receipt of replies to unsolicited mass e-mail.
+Forgery of e-mail headers (“spoofing”).
+Spamming via third-party proxy, aggregation of proxy lists, or installation of proxy mailing software.
+Configuration of a mail server to accept and process third-party messages for sending without user identification and authentication.
+Hosting web pages advertised within “spam e-mail” sent from another network (“spamvertising”).
+Hosting web pages or providing services that support spam.
+Any other unsolicited bulk messages, postings, or transmissions through media such as weblog posts, IRC/chat room messages, guestbook entries, HTTP referrer log entries, usenet posts, pop- up messages, instant messages, or SMS messages.
+Instructing others in any activity prohibited by this AUP and/or Applicable Laws.
+A Customer shall not use IP addresses that were not assigned to it by IMS - Network. IMS - Network reserves the right to suspend the network access of any server utilizing IP addresses outside of the assigned range.
+Customers may not operate and maintain IRC servers which connect to global IRC networks such as Undernet, EFnet and DALnet. Use of IRC plug-ins, scripts, add-ons, clones or other software designed to disrupt or deny service to other users is prohibited. Harassing or abusive IRC activity is expressly prohibited under the AUP, including (i) disruption or denial of service or (ii) the use or joining of “botnets” or the use of IRC BNC’s or other proxy and re-direction software. If a Customer’s IRC servers are frequently compromised or attract denial of service or distributed denial of service attacks that disrupt or denies service to other Customers or users, IMS - Network may null-route, filter, suspend, or terminate that Customer’s service.
+Multiple account ownership is prohibited in the platform (in either specific brand or across multiple partners or affiliates).
+To remove any doubt, all of Customer’s activities and operations are and will remain in accordance with any law, not abusive to any audience and not harmful to any third party, and at all times avoid deceptive, misleading, or unethical practices which are or might be detrimental to IMS - Network or any third party. The User hereby agrees and undertakes that the Services provided by IMS - Network will never be used by User and/or any third party for activities that contain content that is: defamatory; and/or obscene; and/or libelous; and/or discriminatory; and/or offensive; and/or deceptive; and/or abusive – Contains or installs any viruses, worms, bugs, Trojan horses or other code, files or programs designed to, or capable of, disrupting, damaging or limiting the functionality of any software or hardware; and/or violence including promotes, encourages or engages in terrorism, violence against people, animals, or property; and/or child pornography and pedophilia including without limitation, any content that promotes, encourages or engages in the exploitation of children; and/or prescription medication – promotes, encourages or engages in the sale or distribution; and/or unlicensed or unregulated, by law, gambling related; and/or unlawful or promotes or encourages illegal activity.
+
+4. Additional Restrictions and Prohibited Activities
+
+In addition to any of the prohibited activities set forth and detailed in this AUP and without derogating anything to the contrary, the Customer hereby agrees and undertakes that he/she/it will not (a) save multiple copies of identical and/or essentially similar files; (b) use the Products and Services or any of IMS - Network’s servers for back-up purposes; and/or (c) use the Products and Services for simultaneously transmitting files to a high volume of users (megauploading), and specifically while using the Cloud File Server service; (d) storing on Cloud FIle Server service an average of above 1TiB of storage per active user.
+
+5. Customer’s Undertakings
+A. Customer shall apply for and obtain any and all licenses permits and other authorizations needed to fulfill its obligations under the Terms, this AUP and any Applicable Laws.
+
+B. Customer agrees and undertakes that all contents and activities conducted via the Account and/or the Products and Services are on Customer’s sole responsibility. Nevertheless, Customer is hereby acknowledges that although IMS - Network does not pre-screen the content that is used by Customer via the Account and/or the Products and Services, IMS - Network has the right, but not the obligation, in its sole discretion to remove or refuse to provide the Products and Services, in any case of abusive content or pursuant to any demand of any legal authority, without compensation of any kind, whether financial or otherwise toward the Customer. Customer agrees that he/she/it must evaluate, and bear all risks associated with, the use of any of its content and activities.
+
+C. Customer shall at all times comply with all laws, regulations, orders, decrees, rulings and judgments applicable, practices and procedures while performing its obligations hereunder.
+
+D. Customer warrants that its engagement with IMS - Network for the Products and Services does not require the consent of any person or entity. User hereby warrants and undertakes that, at all times during the Term of engagement with IMS - Network, all of Customer’s software, hardware, codes, algorithms, developments and/or otherwise (“Technological Resources”), that is being used by Customer, is whether lawfully licensed to Customer by third parties and/or self-developed by Customer, and in any way is being used by the Customer in accordance with this AUP and any law. For the avoidance of any doubt, IMS - Network has the right, but not the obligation, in its sole discretion to remove or refuse to provide the Products and Services in any case of unlawful use of Technological Resources, without compensation of any kind, whether financial or otherwise toward the Customer. User agrees that it must evaluate, and bear all risks associated with, the use of any of its content and activities.
+
+E. Customer shall refrain from making any representations, warranties, or guarantees to the any other third parties with respect to the specifications, features or capabilities of the Products and Services provided by IMS - Network that are inconsistent with the literature, protocols, trainings, explanations and covenants provided by the IMS - Network in writing to the Customer.
+
+6. Legal Investigations
+Customers will promptly cooperate and comply with any civil or criminal investigation regarding use of their Account and/or the Products and Services, including, without limitation, the following: discovery orders, subpoenas, freeze orders, search warrants, information requests, wire taps, electronic intercepts and surveillance, preservation requests, and any other order from a court, government entity or regulatory agency (each an “Investigation”). IMS - Network may, upon its sole and absolute discretion, charge a Customer or any person seeking compliance with an Investigation for the reasonable costs and expenses associated with IMS - Network’s compliance with any such Investigation. IMS - Network reserves the right to comply with any Investigation without any notice to a Customer. IMS - Network reserves the right to disclose information relating to Customers and their use of their Account and/or the Products and Services or information transmitted, owned by or stored by or on behalf of any Customer, if such information is disclosed in connection with an Investigation or in order to prevent the death of or bodily harm to any individual, as determined by IMS - Network in its sole discretion.
+
+7. Consequences of Violations of This AUP
+A. IMS - Network may enforce this AUP, with or without any notice to a Customer, by any action it deems necessary, in its sole and absolute discretion, such that it may, including, without limitation:
+
+
+Suspend or terminate Customer’s Account.
+Suspend or terminate Customer’s access to the Products and Services.
+Remove DNS records from servers.
+Block mail or any other network service.
+Effect IP address null routing.
+Bill the Customer for administrative costs and/or reactivation charges.
+Bring legal action to enjoin violations and/or to collect damages, if any, cause by violations.
+Take any legal action against a Customer to enforce compliance with this AUP and/or any Applicable Laws.
+B. If any Customer uses the Products and Services in a manner that causes or may cause IMS - Network to be “blacklisted” or blocked, IMS - Network reserves the exclusive and absolute right to suspend permanently or terminate the Products and Services of such Customer.
+
+C. Block Removal – If, as a result of a Customer’s actions, IMS - Network’s mail servers or IP address ranges are placed on black hole lists or other mail filtering software systems, IMS - Network shall charge Customer US$100 upfront and US$200  per hour thereafter for any necessary remedial actions.
+
+D. Any of the remedial actions set forth in the Terms and/or in this AUP shall not be construed in any way to limit the actions or remedies that IMS - Network may take to enforce and ensure compliance with this AUP and/or Applicable Laws. IMS - Network reserves the right to recover any and all expenses, and apply any reasonable charges, in connection with a Customer’s violation of this AUP. No refund or service credits will be issued for any interruption in service resulting from violations of this AUP. IMS - Network reserves the right at all times to investigate any actual, suspected, or alleged violations of this AUP, with such investigation to include accessing of data and records on, or associated with, any server and/or Account.
+
+8. Reporting Violations:
+If there is a violation of this AUP, please direct the information to IMS - Network’s abuse team at support@IMS - Network.com.
+
+If available, please provide the following information:
+
+The IP address used to commit the alleged violation.
+The date and time of the alleged violation, including the time zone or offset from GMT.
+Evidence of the alleged violation.
+
+E-mail with full header information provides all of the above, as do system log files. Other situations will require different methods of providing the above information
