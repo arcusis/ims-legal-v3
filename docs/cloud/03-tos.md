@@ -64,26 +64,61 @@ keywords:
 
 החברה מחויבת לעמידה בדרישות חוקי הגנת הפרטיות הרלוונטיים ותפעל בהתאם להוראות החוקים החלים. כל לקוח המשתמש בתשתית הענן נדרש לקבל ולהסכים לשתי המדיניות הללו כתנאי לשימוש בשירותי החברה.
 
+## **7. זכויות קניין רוחני**
+
+האתר, המוצרים והשירותים, התוכן והנכסים הקנייניים של החברה וכל זכויות הקניין הרוחני הקשורות בהם, כולל אך לא מוגבל להמצאות, פטנטים ובקשות לפטנטים, סימני מסחר, שמות מסחריים, סימני שירות, חומרים בעלי זכויות יוצרים, וסודות מסחריים, בין אם הם רשומים ובין אם לא, הינם בבעלות החברה ו/או ניתנים ברישיון לחברה ומוגנים על ידי חוקים רלוונטיים לזכויות יוצרים וקניין רוחני ואמנות בינלאומיות. כל הזכויות שלא ניתנו לך במפורש במסגרת תנאים אלו שמורות לחברה ולנותני הרישיון שלה.
+
+התנאים אינם מעניקים לך זכות כלשהי בקניין הרוחני של החברה אלא רק זכות שימוש מוגבלת הניתנת לביטול בהתאם לתנאים אלו. שום דבר בתנאים אינו מהווה ויתור על זכויות הקניין הרוחני של החברה על פי כל דין.
+
+### **שימוש בקוד פתוח**
+
+פלטפורמת הענן של איי.אמ.אס טכנולוגיות עושה שימוש במגוון רחב של אפליקציות ומערכות קוד פתוח. המידע המפורט על כל מערכות הקוד הפתוח בהן נעשה שימוש, כולל הרישיון שלהן, זמין [בפורטל זכויות היוצרים](/library/company/copyright/).
+
+## **8. סימני מסחר ושמות מסחריים**
+
+"IMS - Cloud", IMS - Cloud™, "איי.אמ.אס טכנולוגיות", סימני המסחר והלוגואים של IMS - Cloud וכל יתר המזהים הקנייניים של החברה המשמשים בקשר עם השירותים ("סימני החברה") הינם כולם סימני מסחר ו/או שמות מסחריים של החברה, בין אם רשומים ובין אם לא. כל יתר סימני המסחר, סימני השירות, השמות המסחריים והלוגואים שעשויים להופיע באתר ו/או בשירותים שייכים לבעליהם המתאימים ("סימני צד שלישי").
+
+אין במסגרת תנאים אלו מתן זכות, רישיון או עניין כלשהו בסימני המסחר של החברה או בסימני צד שלישי, ואתה מסכים כי לא תהיה כל דרישה לזכות, רישיון או עניין כזה. לפיכך, הימנע משימוש כלשהו בסימנים אלה ללא אישור מתאים.
+
+**9. קישורים לאתרים של צד שלישי**
+
+קישורים מסוימים הכלולים כאן מאפשרים ללקוחות שלנו לעזוב את האתר ולעבור לאתרים או שירותים של צדדים שלישיים. אתרים ושירותים אלה מסופקים אך ורק לנוחיותך, ואינם בשליטת איי.אמ.אס טכנולוגיות. אין אנו אחראים לזמינותם של אתרים או שירותים חיצוניים כאלה, ואיננו מאשרים או נושאים באחריות או חבות כלשהי בגין תוכן, פרסום, מוצרים או מידע אחר הנמצא או זמין באותם אתרים או שירותים מקושרים או כל קישור הכלול באתרים או שירותים אלה.
+
+הגישה שלך לאתרים ושירותים כאלה, השימוש בהם וההסתמכות עליהם נעשים באחריותך המלאה ועל חשבונך. איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות להפסיק כל קישור בכל עת. 
+
+בנוסף, אתה מאשר ומסכים כי איי.אמ.אס טכנולוגיות לא תהיה אחראית או נושאת באחריות, ישירה או עקיפה, לנזק או לאובדן שנגרמו או נטען כי נגרמו כתוצאה מהשימוש שלך או ההסתמכות שלך על שירותים, תוכן, מוצרים או חומרים אחרים הזמינים באתרים ושירותים מקושרים כאלה.
+
+מרבית האתרים והשירותים המקושרים כוללים מסמכים משפטיים, לרבות תנאי שימוש ומדיניות פרטיות, המסדירים את השימוש בהם. מומלץ תמיד לקרוא מסמכים אלו בקפידה לפני השימוש באותם אתרים ושירותים, ובין היתר כדי לדעת איזה מידע אודותיך נאסף.
+
+---
+
+**10. כללי שימוש**
+
+השימוש שלך באתר ו/או במוצרים והשירותים כפוף למדיניות השימוש המקובלת של איי.אמ.אס טכנולוגיות ([מדיניות שימוש מקובלת](https://aup)). מדיניות זו נמצאת בתוקף ונתונה לשינויים, תיקונים והחלפות מעת לעת כפי שאיי.אמ.אס טכנולוגיות עשויה לבצע.
+
+עליך לציית לכל הוראות מדיניות השימוש המקובלת באופן מלא.
+
+### **10.1 תנאים מיוחדים הקשורים לרכיבי צד שלישי**
+
+האתר ו/או המוצרים והשירותים עשויים להשתמש או לכלול תוכנה, קבצים ורכיבים של צדדים שלישיים הכפופים לתנאי רישוי של קוד פתוח ותנאי רישוי אחרים מצד שלישי ("רכיבי צד שלישי").
+
+הזכות שלך להשתמש ברכיבי צד שלישי כחלק מהמוצרים והשירותים או בקשר אליהם כפופה לכל האישורים ותנאי הרישוי הנלווים לרכיבים אלה, או הנמצאים בהם או קשורים אליהם. במקרה של סתירה בין תנאי הרישוי של רכיבי צד שלישי לבין תנאים אלו, תנאי הרישוי של רכיבי צד שלישי יגברו ביחס לאותם רכיבים.
+
+תנאים אלו אינם חלים על רכיבי צד שלישי הנלווים או הכלולים באתר ו/או במוצרים והשירותים, ואיי.אמ.אס טכנולוגיות מוותרת על כל אחריות הקשורה לכך. 
+
+אתה מאשר כי איי.אמ.אס טכנולוגיות אינה המחבר, הבעלים או המורשה של רכיבי צד שלישי, ואינה מבטיחה ואינה נותנת מצג, מפורש או משתמע, לגבי איכותם, יכולותיהם, פעולתם, ביצועיהם או התאמתם של רכיבי צד שלישי.
+
+### **10.2 זמינות מוצרים ושירותים**
+
+זמינותם ותפקודם של המוצרים והשירותים תלויים בגורמים שונים, והם כפופים להסכם רמת השירות ([SLA](https://sla)) של איי.אמ.אס טכנולוגיות, וכפי שעשוי להשתנות או להיות מותאם על ידי איי.אמ.אס טכנולוגיות מעת לעת.
+
+איי.אמ.אס טכנולוגיות אינה מבטיחה או מתחייבת שהמוצרים והשירותים יפעלו ו/או יהיו זמינים בכל עת ללא הפרעה או תקלה, או שיהיו חסינים מגישה לא מורשית או נקיים מטעויות, הכול בכפוף להסכם רמת השירות.
+
+### **10.3 שינויים באתר ובמוצרים והשירותים**
+
+איי.אמ.אס טכנולוגיות שומרת על הזכות הבלעדית לתקן, לשנות, לשפר, להחליף, להשעות, להפסיק, באופן זמני או קבוע, מעת לעת, לפי שיקול דעתה הבלעדי, כל חלק מהאתר ו/או מהמוצרים והשירותים.
 
 
-
-
-1. Intellectual Property Rights
-The Site, the Products and Services, the Content and the Company’s proprietary assets and any and all intellectual property rights pertaining thereto, including, but not limited to, inventions, patents and patent applications, trademarks, trade names, service marks, copyrightable materials, and trade secrets, whether or not registered or capable of being registered (collectively, “Intellectual Property”), are owned by and/or licensed to the Company and are protected by applicable copyright and other intellectual property laws and international conventions and treaties. All rights not expressly granted to you hereunder are reserved by the Company and its licensors.
-The Terms do not convey to you an interest in or to the Company Intellectual Property but only a limited revocable right of use in accordance with the Terms. Nothing in the Terms constitutes a waiver of the Company’s Intellectual Property under any law.
-1. Trademarks and Trade names
-“IMS - Cloud” IMS - Cloud™, IMS - Cloud’s marks and logos and all other proprietary identifiers used by the Company in connection with the Services (“Company Trademarks”) are all trademarks and/or trade names of the Company, whether or not registered. All other trademarks, service marks, trade names and logos which may appear on the Site and/or the Services belong to their respective owners (“Third Party Marks”). No right, license, or interest to the Company Trademarks and the Third Party Marks is granted hereunder, and you agree that no such right, license, or interest shall be asserted by you with respect to the Company Trademarks or Third Party Marks and therefore you will avoid using any of those marks.
-1. Links to Third Party Sites
-Certain links provided herein permit our Customers to leave this Site and enter sites or services of third parties. Those linked sites and services are provided solely as a convenience to you. These linked sites and services are not under the control of IMS - Cloud and it is not responsible for the availability of such external sites or services, and does not endorse and is not responsible or liable for any content advertising, products or other information on or available from such linked sites and services or any link contained in linked sites or service. Your access to, use of and reliance upon any such sites, services and content and your dealings with such third parties are at your sole risk and expense. IMS - Cloud reserves the right to terminate any link at any time. You further acknowledge and agree that IMS - Cloud shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused, by or in connection with use of or reliance on any services, content, products or other materials available on or through such linked sites or resource. Most of such linked sites and services provide legal documents, including terms of use and privacy policy, governing the use thereof. It is always advisable to read such documents carefully before using those sites and services, inter alia, in order to know what kind of information about you is being collected.
-1.  Usage Rules
-Your use of the Site and/or the Products and Services is subject to IMS - Cloud’s standard acceptable usage policy (“AUP“), as in effect and available at: www.IMS - Cloud.com and subject to all changes, modifications and replacements as IMS - Cloud may effect from time to time. You undertake to comply with all the provisions of the AUP.
-1.  Special provisions relating to Third Party Components
-The Site and/or the Products and Services may use or include third party software, files and components that are subject to open source and third party license terms (“Third Party Components“). Your right to use such Third Party Components as part of, or in connection with, the Products and Services is subject to any applicable acknowledgements and license terms accompanying such Third Party Components, contained therein or related thereto. If there is a conflict between the licensing terms of such Third Party Components and these Terms, the licensing terms of the Third Party Components shall prevail in connection with the related Third Party Components. These Terms do not apply to any Third Party Components accompanying or contained in the Site and/or the Products and Services and IMS - Cloud disclaims all liability related thereto. You acknowledge that IMS - Cloud is not the author, owner or licensor of any Third Party Components, and that IMS - Cloud makes no warranties or representations, express or implied, as to the quality, capabilities, operations, performance or suitability of Third Party Components.
-1.  Products and Services Availability
-The Products and Services’ availability and functionality depend on various factors, and such are subject to IMS - Cloud’s Service Level Agreement (“SLA“) available at: www.IMS - Cloud.com as such may be changed or modified by IMS - Cloud from time to time.
-IMS - Cloud does not warrant or guarantee that the Products and Services will operate and/or be available at all times without disruption or interruption, or that it will be immune from unauthorized access or error-free, all subject and pursuant to the SLA.
-1.  Changes to The Site and Products and Services
-IMS - Cloud HAS THE EXCLUSIVE RIGHT TO AMEND, ALTER, MODIFY, CORRECT, IMPROVE, MAKE ANY CHANGES, REPLACE, SUSPEND, DISCONTINUE, TEMPORARILY OR PERMANENTLY, FROM TIME TO TIME, IN ITS SOLE DISCRETION, ALL OR ANY PORTION OF THE SITE AND/OR THE PRODUCTS AND SERVICES.
 1.  Disclaimer of Warranties
 SUBJECT TO THE SLA, WE DO NOT WARRANT (I) THAT THE USE AND OPERATION OF THE SITE AND/OR THE ACCOUNT AND/OR THE PRODUCT AND SERVICES IS OR WILL BE SECURE, TIMELY, ACCURATE, COMPLETE, UNINTERRUPTED, WITHOUT ERRORS, OR FREE OF VIRUSES, DEFECTS, WORMS, OTHER HARMFUL COMPONENTS OR OTHER PROGRAM LIMITATIONS, (II) THAT IMS - Cloud WILL CORRECT ANY ERRORS OR DEFECTS IN THE SITE AND/OR SERVICES, (III) MAKE ANY REPRESENTATION REGARDING THE USE, INABILITY TO USE OR OPERATE, OR THE RESULTS OF THE USE OF THE SITE AND/OR THE ACCOUNT AND/OR THE PRODUCTS AND SERVICES AND/OR CONTENT AVAILABLE THEREON OR THROUGH THE SITE AND/OR ACCOUNT AND/OR PRODUCTS AND SERVICES. IMS - Cloud AND IMS - Cloud’S REPRESENTATIVES DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THE USE OF THE SITE AND/OR THE ACCOUNT AND/OR THE PRODUCTS AND SERVICES, INCLUDING BUT NOT LIMITED TO THE AVAILABILITY, RELIABILITY OR THE QUALITY OF THE SITE AND/OR THE ACCOUNT AND/OR THE PRODUCTS AND SERVICES, AND ARE NOT AND SHALL NOT BE RESPONSIBLE FOR ANY ERROR, FAULT OR MISTAKE RELATED TO ANY CONTENT AND INFORMATION DISPLAYED WITHIN THE SITE AND/OR THE ACCOUNT AND/OR THE PRODUCTS AND SERVICES.
 WE ARE NOT RESPONSIBLE AND HAVE NO LIABILITY FOR ANY ITEM OR SERVICE PROVIDED BY ANY PERSON OR ENTITY OTHER THAN IMS - Cloud.
