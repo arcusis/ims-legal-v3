@@ -8,9 +8,73 @@ keywords:
     - תנאי שירות
 ---
 
-**ברוכים הבאים לאיי.אמ.אס טכנולוגיות ושותפיה ("איי.אמ.אס טכנולוגיות", "אנחנו", "שלנו", "החברה")**
+**תנאי שירות - פלטפורמת הענן של איי.אמ.אס טכנולוגיות**
 
-אנו מברכים אתכם (ה"לקוחות" או "אתם") באתר האינטרנט שלנו בכתובת [https://cloud.ims-network.net](https://cloud.ims-network.net), [https://platform.cloud.ims-network.net](https://platform.cloud.ims-network.net) (ה"אתר"). האתר שלנו מספק מידע בסיסי לגבי החברה, הטכנולוגיה והשירותים שלנו. בנוסף, לקוחות שיש להם שם משתמש וסיסמה יכולים לגשת למוצרים ולשירותים מבוססי-אינטרנט שלנו דרך האתר. כל אחד מהלקוחות של האתר רשאי להשתמש בו בהתאם לתנאים ולהגבלות המפורטים להלן.
+ברוכים הבאים לאתר שלנו [https://cloud.ims-network.net](https://cloud.ims-network.net) ("האתר"), שמופעל על ידי פלטפורמת הענן של איי.אמ.אס טכנולוגיות ("איי.אמ.אס טכנולוגיות", "אנחנו", "שלנו", "החברה"). האתר מספק מידע בסיסי אודות החברה, הטכנולוגיה והשירותים שלנו. בנוסף, לקוחות עם שם משתמש וסיסמא יכולים לגשת למוצרים ולשירותים מבוססי רשת דרך האתר שלנו. כל לקוח באתר זה רשאי להשתמש בו בהתאם לתנאים וההגבלות המפורטים כאן.
+
+## **1. קבלת התנאים**
+
+בכניסה, התחברות או שימוש באתר ובשירותים והמוצרים שלנו (כהגדרתם להלן), אתה מאשר שקראת והבנת את תנאי השימוש, כולל מדיניות הפרטיות, ה-מדיניות שימוש מקובלת וה-הסכם רמת שירות שלנו (יחד, "התנאים"), ואתה מסכים להיות מחויב להם ולציית לכל החוקים והתקנות החלים על השימוש שלך באתר ובמוצרים והשירותים. התנאים מהווים חוזה מחייב ואכיף מבחינה משפטית בין פלטפורמת הענן של איי.אמ.אס טכנולוגיות לבינך.
+
+**אם אינך מסכים לתנאים אלה, אנא אל תיכנס, תתחבר או תשתמש באתר ו/או במוצרים והשירותים.**
+
+## **2. האתר**
+
+האתר מספק מידע מקיף על פלטפורמת הענן של איי.אמ.אס טכנולוגיות, המוצרים והשירותים וכן משאבים כמו שאלות ותשובות. האתר עשוי לכלול כל תוכן אחר הקשור לכך כגון פרטי קשר, סרטונים, טקסטים, לוגואים, סמלי כפתורים, תמונות, קומפילציות נתונים, קישורים, תוכן מיוחד, נתונים טכניים, תיעוד, ידע, חומרי מפרט, תכנונים, נתונים, "מראה והרגשה" של האתר, אלגוריתמים, קוד מקור וקוד אובייקט, ממשק, GUI, גרפיקה אינטראקטיבית, איורים, רישומים, אנימציות ותכונות אחרות שהושגו מהאתר או דרכו (יחד, "התוכן").
+
+**התוכן באתר, כולל כל מידע, חומרים ונתונים, זמין לשימוש אישי בלבד.**
+
+**כל הזכויות על התוכן הזמין באתר שמורות לפלטפורמת הענן של איי.אמ.אס טכנולוגיות.** במידה המותרת על פי חוק, האתר והתוכן שבו ניתנים על בסיס "כפי שהם" ללא אחריות כלשהי מצד איי.אמ.אס טכנולוגיות לנזקים כלשהם שייגרמו כתוצאה או בקשר לשימוש שלך באתר ו/או בשירותים ו/או בתוכן הזמין בו.
+
+**השימוש שלך באתר ו/או בתוכן ו/או בשירותים הוא באחריותך המלאה.**
+
+## **3. המוצרים והשירותים**
+
+בהתאם לתנאים, מדיניות הפרטיות, הסכם רמת השירות ומדיניות שימוש מקובלת, איי.אמ.אס טכנולוגיות תספק ללקוחות מוצרים ושירותים, כולל אך לא מוגבל לכך, תשתית ענן בעלות נמוכה, תחזוקה מינימלית וביצועים גבוהים, כגון שרתי ענן, אירוח אתרים בענן, CDN, שירותי DNS ועוד ("המוצרים והשירותים").
+
+### **4. הרשמה וחשבון לקוח**
+
+פתיחת חשבון משתמש מתבצעת אך ורק לאחר יצירת קשר עם מחלקת המכירות של החברה. כל לקוח או חברה הרוצים לעשות שימוש בתשתית הענן צריכים לעבור בדיקה שמתבצעת על ידי החברה, אשר מאמתת כי מדובר בישות אמיתית (חברה/אדם).
+
+כדי להיות לקוח של החברה יש להיות מעל גיל 16 ולהחזיק חשבון בנק פעיל ותעודת זהות בתוקף.
+
+החברה שומרת לעצמה את הזכות לסרב לספק שירות לאדם או ללקוח שהפעילות שלו בעבר או בעתיד נוגדת את התקנון ואת מדיניות החברה.
+
+**אחריות על השימוש בחשבון**
+
+החשבון שלך מוגן בסיסמא, ויש לשמור על פרטיות פרטי הגישה ולהשגיח על השימוש בו. אתה מחויב למסור מידע מדויק ומלא בעת יצירת החשבון, ולשמור את המידע מעודכן ונכון. אתה אחראי באופן מלא ובלעדי לשמירת הסיסמא ופרטי החשבון שלך, ולכל הפעולות שמתבצעות תחת החשבון שלך. במקרה שאנו מאמינים בתום לב כי פתחת חשבון שמתחזה לאדם אחר, חשבון כזה עשוי לחשוף אותך לאחריות אזרחית ו/או פלילית.
+
+אינך רשאי להעביר את זכויותיך או להאציל את חובותיך במסגרת החשבון ללא הסכמתנו מראש ובכתב. במקרה של שימוש לא מורשה, עליך להודיע לנו מיד ולשנות את הסיסמא באמצעות ההגדרות באתר או לפנות לתמיכה הטכנית שלנו. אנו לא נהיה אחראים לכל אובדן או נזק הנובע מכשל שלך לעמוד בתנאים אלו.
+
+**ביטול חשבון**
+
+אם ברצונך לשנות את שם המשתמש או הסיסמא שלך, או לבטל ולהסיר את חשבונך, שלח לנו דוא"ל עם בקשתך לכתובת: support\@IMS - Cloud.com. ביטול החשבון מכל סיבה עשוי לגרום לאובדן מידע ונתונים המאוחסנים בחשבונך ו/או מידע שסיפקת לנו. אנו לא נקבל על עצמנו כל אחריות על אובדן כזה.
+
+**5. תשלום**
+
+הלקוחות ישלמו לחברה את התשלומים המפורטים באתר ו/או בטופס ההזמנה הזמין בכתובת: [www.IMS](http://www.IMS) - Cloud.com. התשלום יתבצע באמצעות כרטיס אשראי או הוראת קבע בלבד. אנו עשויים להוסיף או לשנות את שיטות התשלום לפי שיקול דעתנו הבלעדי.
+
+כל הלקוחות המקומיים בישראל יחויבו במטבע המקומי (ש"ח) לפי שער החליפין של בנק לאומי עבור צ'קים / העברות - מכירה. על כל האמור לעיל יתווספו 2% מסכום החשבונית כדמי ניהול.
+
+השירותים מחויבים באופן אוטומטי על בסיס חודשי. במידה והתקבלת לניסיון חינם או מבצע, אתה מודע לכך שלאחר סיום הניסיון או המבצע השירותים יהפכו לחיוביים אלא אם כן תבטל את כל השרתים והשירותים הפעילים מחשבונך.
+
+מעת לעת, עקב שינויים במחירים שאינם קשורים לאיי.אמ.אס טכנולוגיות, כגון שינויי מיסוי, שינויי מחירי חשמל, רישיונות מצד שלישי ו/או אחרת, איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות לשנות את המחירים והעמלות בכל עת, ושינויים אלה ייכנסו לתוקף מיד עם עדכון פרטי הלקוח.
+
+במקרה שהלקוח שילם פיקדון מראש לאיי.אמ.אס טכנולוגיות, אם הלקוח לא ישתמש בפיקדון זה לקבלת שירותים במשך לפחות 6 חודשים, איי.אמ.אס טכנולוגיות תגבה מהלקוח 2% מהפיקדון בכל חודש, ולאחר 30 חודשים הפיקדון יימחק ולא יהיה ניתן להשתמש בו.
+
+**6. מדיניות פרטיות**
+
+אנו מכבדים את פרטיותך ומחויבים להגן על המידע שאתה משתף איתנו. המדיניות והנהלים שלנו והסוגים של המידע שאנו אוספים מתוארים בפרטי מדיניות הפרטיות שלנו בכתובת: [www.IMS](http://www.IMS) - Cloud.com, אשר נכללת כאן בהתייחסות. אם בכוונתך להתחבר, לגשת או להשתמש באתר ו/או במוצרים והשירותים, עליך קודם לקרוא ולהסכים למדיניות הפרטיות.
+
+---
+
+**7. זכויות קניין רוחני**
+
+האתר, המוצרים והשירותים, התוכן והנכסים הקנייניים של החברה וכל זכויות הקניין הרוחני הקשורות בהם, כולל אך לא מוגבל להמצאות, פטנטים, סימני מסחר, שמות מסחריים, חומרים בעלי זכויות יוצרים וסודות מסחריים, הם בבעלות החברה ו/או ניתנים ברישיון לחברה. כל הזכויות שלא ניתנו לך במפורש במסגרת התנאים שמורות לחברה ולנותני הרישיון שלה.
+
+התנאים אינם מעניקים לך זכות או עניין כלשהו בקניין הרוחני של החברה אלא רק זכות שימוש מוגבלת הניתנת לביטול בהתאם לתנאים אלו. שום דבר בתנאים אלו אינו מהווה ויתור על זכויות הקניין הרוחני של החברה על פי כל דין.
+
+
 
 ### 1. קבלת התנאים
 
@@ -205,25 +269,6 @@ keywords:
 
 
 
-IMS - Cloud and its affiliates (“IMS - Cloud“, “we“, “our“, “Company”) welcome you (the “Customer(s)”, or “you”) to our website at https://cloud.ims-network.net (the “Site”). Our Site offers basic information regarding the Company, technology and services. In addition Customers with log-in user name and password can access our web based Products and Services (as defined below) through our Site. Each of the Site’s Customers may use it in accordance with the terms and conditions hereunder.
-1. Acceptance of the Terms
-By entering, connecting to, accessing or using the Site and/or using any of the Products and Services (as defined below), you acknowledge that you have read and understood the following terms of use, including the terms of our Privacy Policy, AUP and SLA (collectively, the “Terms“) and you agree to be bound by them and to comply with all applicable laws and regulations regarding your use of the Site and/or the Products and Services and you acknowledge that these Terms constitute a binding and enforceable legal contract between IMS - Cloud and you.
-IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT ENTER TO, CONNECT TO, ACCESS OR USE THE SITE AND/OR ANY OF THE PRODUCTS AND SERVICES.
-1. The Site
-The Site provides comprehensive information regarding IMS - Cloud, the Products and Services and resources such as Q&A, and may include any other content related thereto such as contact information, videos, text, logos, button icons, images, data compilations, links, other specialized content, technical data, documentation, know-how, specifications materials, designs, data, the “look and feel” of the Site, algorithms, source and object code, interface, GUI, interactive features related graphics, illustrations, drawings, animations, and other features obtained from or through the Site (collectively, the “Content”).
-THE CONTENT ON THE SITE, INCLUDING ANY INFORMATION, MATERIALS AND DATA, IS MADE AVAILABLE FOR PERSONAL USE ONLY.
-ALL RIGHTS IN AND TO THE CONTENT AVAILABLE ON THE SITE ARE RESERVED TO IMS - Cloud. TO THE EXTENT LEGALLY PERMISSIBLE, THE SITE AND THE CONTENT AVAILABLE THEREIN ARE PROVIDED ON AN “AS IS” BASIS. IMS - Cloud WILL NOT BE LIABLE FOR ANY DAMAGES OR LOSS, INCURRED BY YOU OR ANY OTHER PERSON AS A RESULT OF OR IN CONNECTION WITH YOUR USE OF THE SITE AND/OR SERVICES AND/OR THE CONTENT AVAILABLE THEREIN.
-YOUR USE OF THE SITE AND/OR THE CONTENT AND/OR THE SERVICES IS ENTIRELY AT YOUR OWN RISK.
-1. The Products and Services
-Subject and pursuant to the Terms, Privacy Policy, SLA and the AUP, IMS - Cloud shall provide the Customer(s) with such products and services, including, without limitation, a low-cost, low-maintenance, high-performance cloud infrastructure services, such as Cloud Servers, Cloud Web Hosting, CDN, DNS and more (the “Products and Services“).
-1. Registration and Customer Account
-You do not need to have an account in order to use the Site. However, in order to access the Products and Services through the Site you must have an account with log-in credentials.
-In order to use the Products and Services, you must register and create an account (the “Account“). Registration can be done by completing the sign-up and registration process in the Site which requires you to provide the Company your full name, e-mail address, user name, password or any other information as IMS - Cloud may deem fit from time to time. Registration may also be done by submitting the Company with a signed Order From.
-Your Account is password protected. In order to protect the security of your personal information available on your Account to the greatest extent possible, you must safeguard and not disclose your Account log-in details and you must supervise the use of such Account. You must provide accurate and complete information when creating an Account and you agree to not misrepresent your identity or your Account information. You agree to keep your Account information up to date and accurate.
-You are solely and fully responsible for maintaining the confidentiality of the password and Account and for all activities that occur under your Account. If we in good faith believe you have created an Account impersonating another person such Account may expose you to civil and/or criminal liability.
-You may not assign or transfer your rights or delegate your obligations under the Account without the prior written consent of IMS - Cloud. You must notify us immediately of any unauthorized use of your Account or any other breach of security and in such events you must change your password immediately via the settings in the Site or contact our technical support. We cannot and will not be liable for any loss or damage arising from any failure of yours to comply with these Terms, i.e., if someone else accesses your Account through the registration information he/she has obtained from you or through a violation by you of these Terms, or for any unauthorized use of your password or Account or any other breach of security.
-If you wish to either change your username or password to log-in to the Products and Services, or cancel and remove your Account, please send us an e-mail of your request to: support@IMS - Cloud.com.
-CANCELING YOUR ACCOUNT, FOR ANY REASON, MAY CAUSE THE LOSS OF CERTAIN INFORMATION AND DATA THAT WERE STORED IN YOUR ACCOUNT AND/OR INFORMATION YOU PROVIDED US. WE DO NOT ACCEPT ANY LIABILITY FOR SUCH LOSS.
 1. Payment
 The Customer(s) shall pay the Company with such Fees detailed and set forth in the Site and/or the Order Form available at: www.IMS - Cloud.com. The payment for the Fees shall be available only by credit card or standing order. We may add or change payment methods at our sole discretion.If charges are processed in a currency which is not the same currency as published, the conversion rate of the first invoice will be defined as the minimum conversion rate of all future invoices. All Israeli local customer(s) will be charged in local ILS currency according to Bank Leumi’s exchange rate for checks / transfers – sell. Despite the above, the exchange rate will not decrease from 3.70 ILS to 1.00 US$ and will not exceed 4.30 ILS to 1.00 ILS, plus applicable local Israel Value-Added Tax. On all the above, will be added 2% of the invoice amount, for an administration fee.
 Products and Services are billed automatically on a monthly recurring basis. If you were approved for a free trial or any promotional offers, you are hereby notified that upon expiration date of such trial or promotion your services will be deemed chargeable unless you terminate all active servers or services from your account.
